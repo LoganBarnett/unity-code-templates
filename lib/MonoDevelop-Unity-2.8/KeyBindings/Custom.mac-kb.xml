@@ -6,15 +6,15 @@
     <binding command="MonoDevelop.Debugger.Soft.Unity.Commands.SearchReference" shortcut="Control+J" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ShowCodeTemplateWindow" shortcut="Alt+Meta+T" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.ToggleBlockSelectionMode" shortcut="Meta+*" />
-    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockDown" shortcut="Shift+Meta+Down" />
-    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockUp" shortcut="Shift+Meta+Up" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockDown" shortcut="Control+Alt+Down" />
+    <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.MoveBlockUp" shortcut="Control+Alt+Up" />
     <binding command="MonoDevelop.CSharp.ExpandCommands.ShrinkSelection" shortcut="Meta+-" />
     <binding command="MonoDevelop.CSharp.ExpandCommands.ExpandSelection" shortcut="Meta+=" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeleteLine" shortcut="Meta+Y" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeleteNextSubword" shortcut="Alt+Delete" />
     <binding command="MonoDevelop.Ide.Commands.TextEditorCommands.DeletePrevSubword" shortcut="Alt+BackSpace" />
-    <binding command="MonoDevelop.Ide.Commands.EditCommands.IndentSelection" shortcut="Shift+Meta+Right" />
-    <binding command="MonoDevelop.Ide.Commands.EditCommands.UnIndentSelection" shortcut="Shift+Meta+Left" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.IndentSelection" shortcut="Control+Alt+Right" />
+    <binding command="MonoDevelop.Ide.Commands.EditCommands.UnIndentSelection" shortcut="Control+Alt+Left" />
     <binding command="MonoDevelop.SourceEditor.SourceEditorCommands.DynamicAbbrev" shortcut="Control+Shift+Space" />
     <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Meta+}" />
     <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Meta+{" />
