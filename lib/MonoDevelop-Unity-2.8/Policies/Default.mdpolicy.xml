@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Policies>
+  <PolicySet id="Default">
+    <TextStylePolicy inheritsSet="Mono" inheritsScope="text/plain" scope="text/plain">
+      <FileWidth>120</FileWidth>
+      <TabWidth>4</TabWidth>
+    </TextStylePolicy>
+    <TextStylePolicy inheritsSet="null" scope="text/x-csharp" />
+    <CSharpFormattingPolicy inheritsSet="Mono" inheritsScope="text/x-csharp" scope="text/x-csharp">
+      <NamespaceBraceStyle>EndOfLine</NamespaceBraceStyle>
+      <ClassBraceStyle>EndOfLine</ClassBraceStyle>
+      <InterfaceBraceStyle>EndOfLine</InterfaceBraceStyle>
+      <StructBraceStyle>EndOfLine</StructBraceStyle>
+      <EnumBraceStyle>EndOfLine</EnumBraceStyle>
+      <MethodBraceStyle>EndOfLine</MethodBraceStyle>
+      <ConstructorBraceStyle>EndOfLine</ConstructorBraceStyle>
+      <DestructorBraceStyle>EndOfLine</DestructorBraceStyle>
+      <PlaceElseOnNewLine>True</PlaceElseOnNewLine>
+      <PlaceElseIfOnNewLine>True</PlaceElseIfOnNewLine>
+      <PlaceCatchOnNewLine>True</PlaceCatchOnNewLine>
+      <PlaceFinallyOnNewLine>True</PlaceFinallyOnNewLine>
+      <BeforeMethodDeclarationParentheses>False</BeforeMethodDeclarationParentheses>
+      <BeforeMethodCallParentheses>False</BeforeMethodCallParentheses>
+      <BeforeConstructorDeclarationParentheses>False</BeforeConstructorDeclarationParentheses>
+      <BeforeIndexerDeclarationBracket>False</BeforeIndexerDeclarationBracket>
+      <BeforeDelegateDeclarationParentheses>False</BeforeDelegateDeclarationParentheses>
+      <NewParentheses>False</NewParentheses>
+      <IfParentheses>False</IfParentheses>
+      <WhileParentheses>False</WhileParentheses>
+      <ForParentheses>False</ForParentheses>
+      <ForeachParentheses>False</ForeachParentheses>
+      <CatchParentheses>False</CatchParentheses>
+      <SwitchParentheses>False</SwitchParentheses>
+      <LockParentheses>False</LockParentheses>
+      <UsingParentheses>False</UsingParentheses>
+      <SpacesBeforeBrackets>False</SpacesBeforeBrackets>
+    </CSharpFormattingPolicy>
+    <DotNetNamingPolicy>
+      <DirectoryNamespaceAssociation>None</DirectoryNamespaceAssociation>
+      <ResourceNamePolicy>FileFormatDefault</ResourceNamePolicy>
+    </DotNetNamingPolicy>
+  </PolicySet>
+</Policies>

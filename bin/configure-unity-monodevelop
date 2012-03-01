@@ -1,0 +1,5 @@
+#!/usr/bin/ruby
+require 'fileutils'
+
+FileUtils.cp_r File.expand_path("#{__FILE__}/../../lib/ScriptTemplates"), "/Applications/Unity/Unity.app/Contents/Resources"
+FileUtils.cp_r File.expand_path("#{__FILE__}/../../lib/MonoDevelop-Unity-2.8"), File.expand_path("~/Library")

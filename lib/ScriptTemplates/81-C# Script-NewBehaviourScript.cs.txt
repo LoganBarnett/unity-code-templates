@@ -1,0 +1,16 @@
+using UnityEngine;
+using System.Collections.Generic;
+using System.Collections;
+using System.Linq;
+using Goodstuff.NaturalLanguage;
+
+public class #SCRIPTNAME# : MonoBehaviour {
+
+	public void Start() {
+	
+	}
+	
+	public void Update() {
+	
+	}
+}
