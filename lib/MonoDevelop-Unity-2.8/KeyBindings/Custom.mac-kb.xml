@@ -16,8 +16,8 @@
     <binding command="MonoDevelop.Ide.Commands.EditCommands.IndentSelection" shortcut="Control+Alt+Right" />
     <binding command="MonoDevelop.Ide.Commands.EditCommands.UnIndentSelection" shortcut="Control+Alt+Left" />
     <binding command="MonoDevelop.SourceEditor.SourceEditorCommands.DynamicAbbrev" shortcut="Control+Shift+Space" />
-    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Meta+}" />
-    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Meta+{" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateBack" shortcut="Meta+[" />
+    <binding command="MonoDevelop.Ide.Commands.NavigationCommands.NavigateForward" shortcut="Meta+]" />
     <binding command="MonoDevelop.Refactoring.RefactoryCommands.GotoDeclaration" shortcut="Meta+B" />
     <binding command="MonoDevelop.Ide.Commands.ProjectCommands.BuildSolution" shortcut="Control+Shift+Return" />
     <binding command="MonoDevelop.Ide.Commands.ProjectCommands.Build" shortcut="Control+Return" />
